@@ -12,10 +12,10 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
-| 🟢 Easy | 1 | 50 |
+| 🟢 Easy | 2 | 50 |
 | 🟡 Medium | 0 | 50 |
 | 🔴 Hard | 0 | 10 |
-| **Total** | **1** | **110** |
+| **Total** | **2** | **110** |
 
 ---
 
@@ -24,6 +24,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 | # | Title | Difficulty | Solution |
 | :---: | :--- | :---: | :--- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [`0136-single-number.cpp`](./0136-single-number.cpp) |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | [`0013-Roman-to-Integer.cpp`](./0013-Roman-to-Integer.cpp) |
 
 
 ---
