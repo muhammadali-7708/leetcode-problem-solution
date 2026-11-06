@@ -1,8 +1,8 @@
 # 🧩 LeetCode Practice & Solutions
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-2-brightgreen?style=for-the-badge)](#problem-index)
+[![Languages](https://img.shields.io/badge/Languages-C++_%7C_Python-00599C?style=for-the-badge&logo=python&logoColor=white)](https://codeforces.com/)
+[![Problems Solved](https://img.shields.io/badge/Solved-3-brightgreen?style=for-the-badge)](#problem-index)
 
 A curated archive of my personal solutions to algorithmic problems on LeetCode. Each entry includes clean C++ code and direct links to the problem description.
 
