@@ -23,9 +23,9 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 
 | # | Title | Difficulty | Solution |
 | :---: | :--- | :---: | :--- |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`0136-single-number.cpp`](./0136-single-number.cpp) |
-| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`0013-Roman-to-Integer.cpp`](./0013-Roman-to-Integer.cpp) |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |[`0001-Two-Sum.cpp`](./0001-Two-Sum.cpp) |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [`0136-single-number.cpp`](./0136-single-number.cpp) |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | [`0013-Roman-to-Integer.cpp`](./0013-Roman-to-Integer.cpp) |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [`0001-Two-Sum.cpp`](./0001-Two-Sum.cpp) |
 
 
 ---
