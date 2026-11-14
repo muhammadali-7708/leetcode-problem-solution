@@ -28,7 +28,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`0136-single-number.py`](./0136-single-number.py) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | `Easy` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`0066-PlusOne.cpp`](./0066-PlusOne.cpp) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | `Easy` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`202-HappyNumber.cpp`](./202-HappyNumber.cpp) |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | `Easy` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`326-Power-of-Three.cpp`](./326-Power-of-Three.cpp) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | `Easy` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`326-Power-of-Three.py`](./326-Power-of-Three.py) |
 
 
 ---
