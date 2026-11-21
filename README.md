@@ -34,3 +34,14 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 
 
 ---
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
