@@ -44,4 +44,5 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0125-valid-palindrome) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
