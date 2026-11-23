@@ -15,7 +15,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | 🟢 Easy | 10 | 50 |
 | 🟡 Medium | 1 | 50 |
 | 🔴 Hard | 0 | 10 |
-| **Total** | **8** | **110** |
+| **Total** | **11** | **110** |
 
 ---
 
