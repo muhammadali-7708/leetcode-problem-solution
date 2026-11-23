@@ -36,9 +36,6 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 ---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
-**Here is the extension of the solutions of leetcode as done upper, along with the topic the problem belongs to.**
-
 ## Two Pointers
 |  |
 | ------- |
@@ -52,8 +49,25 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
+| [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
