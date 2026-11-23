@@ -45,4 +45,12 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | ------- |
 | [0125-valid-palindrome](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0125-valid-palindrome) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
