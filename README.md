@@ -2,7 +2,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Languages](https://img.shields.io/badge/Languages-C++_%7C_Python-00599C?style=for-the-badge&logo=python&logoColor=white)](https://leetcode.com/)
-[![Problems Solved](https://img.shields.io/badge/Solved-8-brightgreen?style=for-the-badge)](#problem-index)
+[![Problems Solved](https://img.shields.io/badge/Solved-11-brightgreen?style=for-the-badge)](#problem-index)
 
 A curated archive of my personal solutions to algorithmic problems on LeetCode, written in both **C++** and **Python**. Each entry includes clean code and direct links to the problem description.
 
@@ -12,8 +12,8 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
-| 🟢 Easy | 8 | 50 |
-| 🟡 Medium | 0 | 50 |
+| 🟢 Easy | 10 | 50 |
+| 🟡 Medium | 1 | 50 |
 | 🔴 Hard | 0 | 10 |
 | **Total** | **8** | **110** |
 
