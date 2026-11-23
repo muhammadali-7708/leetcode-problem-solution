@@ -36,6 +36,9 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 ---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
+**Here is the extension of the solutions of leetcode as done upper, along with the topic the problem belongs to.**
+
 ## Two Pointers
 |  |
 | ------- |
