@@ -50,6 +50,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -70,4 +72,16 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
