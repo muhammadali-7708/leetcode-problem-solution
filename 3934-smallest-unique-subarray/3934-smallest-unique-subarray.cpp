@@ -43,9 +43,9 @@ public:
             int mid = lo + (hi - lo) / 2;
             if (hasUnique(mid)) {
                 ans = mid;
-                hi = mid - 1; // try smaller
+                hi = mid - 1;
             } else {
-                lo = mid + 1; // need bigger
+                lo = mid + 1;
             }
         }
         return ans;
