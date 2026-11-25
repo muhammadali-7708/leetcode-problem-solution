@@ -51,10 +51,12 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0035-search-insert-position) |
+| [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +86,20 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
