@@ -44,6 +44,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0344-reverse-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -62,6 +63,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0067-add-binary) |
 | [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
@@ -104,4 +106,12 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
