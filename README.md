@@ -55,6 +55,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | [1352-product-of-the-last-k-numbers](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,4 +115,12 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
