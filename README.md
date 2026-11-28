@@ -56,6 +56,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 | [3411-maximum-subarray-with-equal-products](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,8 +126,17 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode, 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muhammadali-7708/leetcode-problem-solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
